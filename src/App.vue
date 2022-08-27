@@ -59,6 +59,10 @@ export default {
   cursor: pointer;
 }
 
+.boton:disabled{
+  opacity: .5;
+}
+
 .texto{
   color: blue;
 }
