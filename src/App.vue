@@ -1,5 +1,6 @@
 <template>
     <h1 class="texto">MazzTimer</h1>
+    <p class="texto">DESARROLLADO CON VUE</p>
     <p class="texto">Al darle click al boton apracera un cuadro verde en un intervalo de tiempo aleatorio, entre 2-7 segundos.
       <br> <br>
      <b>¡HAZ CLICK LO MAS RAPIDO POSIBLE!</b></p>
